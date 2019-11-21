@@ -1,5 +1,11 @@
 # quotes
 
+## Practices 
+  - Custom Wigget
+  - Class
+  - List Map
+  
+  
 A new Flutter project.
 
 ## Getting Started
